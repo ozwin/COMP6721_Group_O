@@ -1,5 +1,4 @@
 import os
-
 import numpy as np
 import torch
 import torchvision
@@ -9,7 +8,6 @@ import matplotlib.pyplot as plt
 # extract zip files
 # load the images and labels based on the dataset requested
 # do the pre-processing , batch normalization , flip etc
-
 
 # Transofrmations for preprocessedSnakeImages dataset
 # Reference from https://www.youtube.com/watch?v=z3kB3ISIPAg&list=PL3Dh_99BJkCEhE7Ri8W6aijiEqm3ZoGRq&index=4
