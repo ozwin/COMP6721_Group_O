@@ -11,4 +11,3 @@ class ResNet34:
         resnet_34.fc = nn.Linear(num_filters,num_classes)
         device = Helper.set_device()
 
-
