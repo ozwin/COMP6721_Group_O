@@ -1,6 +1,4 @@
 
 # ignore doc/notes.txt, but not doc/server/arch.txt
-Dataset/5-class/*
-Dataset/15-classes/*
-Dataset/35-classes/*
+Dataset/*
 
