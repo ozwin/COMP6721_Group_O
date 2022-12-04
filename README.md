@@ -2,6 +2,7 @@
 This is an acedemic project for AI course <br/>
 Team Name : <b> Group-O </b>
 
+refer Project_Files folder for project specific links, documents <br/>
 For model specific outputs<br/>
 https://github.com/ozwin/COMP6721_Group_O/tree/main/Output <br/>
 
