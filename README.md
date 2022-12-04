@@ -2,9 +2,14 @@
 This is an acedemic project for AI course <br/>
 Team Name : <b> Group-O </b>
 
+For model specific outputs<br/>
+https://github.com/ozwin/COMP6721_Group_O/tree/main/Output <br/>
 
-<b>ResNet18 </b><br/>
- &emsp; <b>Output logs for 100 epochs </b> <br/>
- &emsp; &emsp;Datset 1(5-classes)  : https://github.com/ozwin/Snake_Species_Recognition/blob/main/Output/ResNet18/Logs/resnet18-5-classes-100-epochs-logs.ipynb <br/>&emsp;&emsp;Datset 2(15-classes) : https://github.com/ozwin/Snake_Species_Recognition/blob/main/Output/ResNet18/Logs/resnet18-15-classes-100-epochs-logs.ipynb <br/>&emsp;&emsp;Datset 3 (35-classes): https://github.com/ozwin/Snake_Species_Recognition/blob/main/Output/ResNet18/Logs/resnet18-35-classes-100-epochs-logs.ipynb <br/>
- &emsp;<b>Trained Weights for 100 epochs</b> <br/>
-   &emsp; https://github.com/ozwin/Snake_Species_Recognition/tree/main/Output/ResNet18/Weights <br/>
+Outputs/{ModelName}/Logs -> Google collab logs from model training <br/>
+Outputs/{ModelName}/Weights -> Trained model weights <br/>
+
+for Visulization Outputs <br/>
+https://github.com/ozwin/COMP6721_Group_O/tree/main/Output/Visualization <br/>  
+
+Wand db logs : Tries for Resnet18 model with TL for one data set <br/>
+https://wandb.ai/group-o/test-project?workspace=user-ozwinneellobo12 <br/>
