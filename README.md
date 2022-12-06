@@ -14,3 +14,8 @@ https://github.com/ozwin/COMP6721_Group_O/tree/main/Output/Visualization <br/>
 
 Wand db logs : Tries for Resnet18 model with TL for one data set <br/>
 https://wandb.ai/group-o/test-project?workspace=user-ozwinneellobo12 <br/>
+
+Dataset Links
+5-class data  : https://drive.google.com/file/d/1M3hCwFYwd9-cSwkNpXId-huML2vcXIgq/view</br>
+15-class data : https://drive.google.com/file/d/1rYOgC6qPHs1Z6520DPNnS2HAHtHLdpDK/view?usp=sharing</br>
+35-class data : https://drive.google.com/file/d/15xvd2IQpeovKakm-ZezLqNCTOZDoc2ep/view?usp=sharing</br>
