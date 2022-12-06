@@ -21,3 +21,5 @@ Dataset Links
 35-class data : https://drive.google.com/file/d/15xvd2IQpeovKakm-ZezLqNCTOZDoc2ep/view?usp=sharing</br>
 
 Final Project Report - https://www.overleaf.com/9173686926kvbrhvcfmxjp </br>
+Doc Link - 
+https://docs.google.com/document/d/1Q9ayChNMkzn24GZRB5mJS4KUa7BHn0rbcCkbtvuNVoU/edit
