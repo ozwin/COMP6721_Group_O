@@ -22,3 +22,6 @@ Dataset Links <br/>
 35-class data : https://drive.google.com/file/d/15xvd2IQpeovKakm-ZezLqNCTOZDoc2ep/view?usp=sharing <br/>
 
 Final Project Report - https://www.overleaf.com/9173686926kvbrhvcfmxjp
+
+
+Refer run.jpynb file to test the model with sample images
